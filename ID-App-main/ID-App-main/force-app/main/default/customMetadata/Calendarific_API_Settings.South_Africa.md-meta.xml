@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>South Africa</label>
+    <protected>false</protected>
+    <values>
+        <field>API_Key__c</field>
+        <value xsi:type="xsd:string">24c5e86734eb44dc4a962826324a5546e74dc42f</value>
+    </values>
+    <values>
+        <field>Country_Code__c</field>
+        <value xsi:type="xsd:string">ZA</value>
+    </values>
+    <values>
+        <field>URL_Endpoint__c</field>
+        <value xsi:type="xsd:string">https://calendarific.com/api/v2/holidays</value>
+    </values>
+</CustomMetadata>
